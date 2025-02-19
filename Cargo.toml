@@ -1,0 +1,20 @@
+[package]
+name = "megatec-ups-control"
+version = "0.1.0"
+edition = "2021"
+authors = ["Piotr Bednarski <piotr.maciej.bednarski@gmail.com>"]
+description = "Library for handling uninterruptible power supplies (UPS) according to the Megatec protocol"
+license = "MIT"
+keywords = ["ups", "megatec", "upsilon", "hardware", "usb"]
+categories = ["hardware-support", "api-bindings"]
+
+[lib]
+crate-type = ["lib"]
+
+[dependencies]
+rusb = "0.9.4"
+thiserror = "2.0.11"
+
+[[example]]
+name = "basic_usage"
+path = "examples/basic_usage.rs"
