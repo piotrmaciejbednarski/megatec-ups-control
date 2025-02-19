@@ -5,6 +5,7 @@ edition = "2021"
 authors = ["Piotr Bednarski <piotr.maciej.bednarski@gmail.com>"]
 description = "Library for handling uninterruptible power supplies (UPS) according to the Megatec protocol"
 license = "MIT"
+repository = "https://github.com/piotrmaciejbednarski/megatec-ups-control"
 keywords = ["ups", "megatec", "upsilon", "hardware", "usb"]
 categories = ["hardware-support", "api-bindings"]
 
