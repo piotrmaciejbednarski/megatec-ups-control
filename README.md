@@ -24,6 +24,8 @@ Add this to your `Cargo.toml`:
 megatec-ups-control = "0.1.0"
 ```
 
+You can find more information at [Crates.io](https://crates.io/crates/megatec-ups-control)
+
 ## Usage
 
 Basic example:
