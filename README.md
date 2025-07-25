@@ -8,12 +8,12 @@ This project is the only library in the world that has collected all the functio
 
 ## Features
 
-- 🔌 USB device connection management
-- 📊 Real-time UPS status monitoring
-- 🔋 Battery testing capabilities
-- 🔔 Beep control
-- 📈 Rating information retrieval
-- 🛑 Emergency shutdown control
+- USB device connection management
+- Real-time UPS status monitoring
+- Battery testing capabilities
+- Beep control
+- Rating information retrieval
+- Emergency shutdown control
 
 ## Installation
 
