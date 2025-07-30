@@ -1,5 +1,9 @@
 # Megatec UPS Control Library (Rust)
 
+![license](https://img.shields.io/crates/l/megatec-ups-control)
+![crates.io](https://img.shields.io/crates/v/megatec-ups-control)
+![docs.rs](https://img.shields.io/docsrs/megatec-ups-control)
+
 A Rust library for interfacing with Megatec protocol-compatible UPS (Uninterruptible Power Supply) devices via USB. This library provides a safe, high-level interface for monitoring and controlling UPS devices.
 
 The library was created from scratch, initially in C, but rewritten in Rust. Through reverse engineering and in-depth analysis of the UPSilon 2000 program, I discovered how the program communicates with the UPS device.
